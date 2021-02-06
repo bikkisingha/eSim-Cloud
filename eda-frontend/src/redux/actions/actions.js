@@ -1,5 +1,6 @@
 // Actions for schematic editor
 //bikki
+//singha
 export const FETCH_LIBRARIES = 'FETCH_LIBRARIES'
 export const TOGGLE_COLLAPSE = 'TOGGLE_COLLAPSE'
 export const FETCH_COMPONENTS = 'FETCH_COMPONENTS'
